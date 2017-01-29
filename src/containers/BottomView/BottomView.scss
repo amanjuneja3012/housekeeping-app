@@ -1,0 +1,89 @@
+.bottomView{
+	margin: 0 auto;
+    width: 302px;
+    font-size: 18px;
+	.leftCard{
+		height: 217px;
+		width: 149px;
+		background-color: #f8f8f8;
+		border: 1px solid #dadada;
+		display: inline-block;
+		text-align: center;
+		margin-right: 10px;
+	}
+	.leftCardTop{
+		margin: 15px auto 30px auto;
+	}
+	.leftCardBottom{
+
+	}
+	.leftCardTopCount{
+		color: #3c3c3c;
+		background-color: #dccc0a;
+		border-radius: 26px;
+		height: 51px;
+		font-size: 31px;
+		width: 51px;
+		margin: 0 auto;
+		font-family: EuclidFlex;
+		line-height: 51px;
+		margin-bottom: 8px;
+	}
+	.leftCardBottomCount{
+		color: #fff;
+		background-color: #d81410;
+		border-radius: 26px;
+		height: 51px;
+		font-size: 31px;
+		width: 51px;
+		margin: 0 auto;
+		font-family: EuclidFlex;
+		line-height: 51px;
+		margin-bottom: 8px;
+	}
+	.rightCard{
+		width: 142px;
+		display: inline-block;
+		vertical-align: top;
+		text-align: center;
+	}
+	.rightCardTop{
+		background-color: #f8f8f8;
+		border: 1px solid #dadada;
+		height: 103px;
+		margin-bottom: 11px;
+		padding: 15px;
+	}
+	.rightCardBottom{
+		background-color: #f8f8f8;
+		border: 1px solid #dadada;
+		height: 103px;
+		padding: 15px;
+	}
+	.rightCardTopCount{
+		color: #17a7a8;
+		background-color: #fff;
+		border: 1px solid #17a7a8;
+		border-radius: 26px;
+		height: 51px;
+		font-size: 31px;
+		width: 51px;
+		margin: 0 auto;
+		font-family: EuclidFlex;
+		line-height: 51px;
+		margin-bottom: 7px;
+	}
+	.rightCardBottomCount{
+		color: #17a7a8;
+		background-color: #fff;
+		border: 1px solid #17a7a8;
+		border-radius: 26px;
+		height: 51px;
+		font-size: 31px;
+		width: 51px;
+		margin: 0 auto;
+		font-family: EuclidFlex;
+		line-height: 51px;
+		margin-bottom: 7px;
+	}
+}

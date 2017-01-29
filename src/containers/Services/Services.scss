@@ -1,0 +1,46 @@
+.services{
+	margin: 10px auto 15px;
+	width: 297px;
+	.header{
+		border-radius: 4px;
+		border: 1px solid #17A7A7;
+		width: 297px;
+		height: 35px; 
+		font-size: 16px;
+	}
+	.clean{
+		width: 98px;
+		display: inline-block;
+		border-right: 1px solid green;
+		line-height: 33px;
+		text-align: center;
+	}
+	.request{
+		width: 98px;
+		display: inline-block;
+		border-right: 1px solid green;
+		line-height: 33px;
+		text-align: center;
+	}
+	.incident{
+		width: 98px;
+		display: inline-block;
+		line-height: 33px;
+		text-align: center;
+	}
+	.cleanRow{
+		max-width: 99px;
+		display: inline-block;
+		margin: 5px 5px 5px 0px;
+	}
+	.requestRow{
+		max-width: 99px;
+		display: inline-block;
+		margin: 5px 5px 5px 0px;
+	}
+	.incidentRow{
+		max-width: 99px;
+		display: inline-block;
+		margin: 5px 5px 5px 0px;
+	}
+}
