@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 
 import ListView from '../ListView/ListView';
 import BottomView from '../BottomView/BottomView';
-import home from '../housekeeping/home';
 
 export default class Home extends Component {
 
