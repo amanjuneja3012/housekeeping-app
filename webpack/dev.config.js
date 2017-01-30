@@ -16,7 +16,7 @@ var babelrc = fs.readFileSync('./.babelrc');
 var babelrcObject = {};
 
 try {
-  babelrcObject = JSON.stringify(babelrc);
+  babelrcObject = JSON.parse(babelrc);
 } catch (err) {
   console.error('==>     ERROR: Error parsing your .babelrc.');
   console.error(err);
